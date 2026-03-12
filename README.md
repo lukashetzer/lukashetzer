@@ -8,24 +8,13 @@ I use **survey experiments, computational text analysis, and large-scale politic
 ## Website
 🌐 https://lukashetzer.github.io
 
+## Projects & Data
+- **ParlLawSpeech** – A large-scale dataset of parliamentary speeches and legislative texts across multiple parliaments.  
+  - Project website: https://parllawspeech.github.io  
+  - Data access: https://parllawspeech.github.io/data
+
 ## Research profiles
 - Google Scholar: https://scholar.google.com/citations?user=YOURID
 - ORCID: https://orcid.org/YOURID
 - Bluesky: https://bsky.app/profile/YOURHANDLE
 - LinkedIn: https://www.linkedin.com/in/YOURPROFILE
-
-
-<!--
-**lukashetzer/lukashetzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
