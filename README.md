@@ -10,8 +10,8 @@ I use **survey experiments, computational text analysis, and large-scale politic
 
 ## Projects & Data
 - **ParlLawSpeech** – A large-scale dataset of parliamentary speeches and legislative texts across multiple parliaments.  
-  - Project website: https://parllawspeech.github.io  
-  - Data access: https://parllawspeech.github.io/data
+  - Project website: https://parllawspeech.org  
+  - Data access: https://doi.org/10.7802/2824
 
 ## Research profiles
 - Google Scholar: https://scholar.google.com/citations?user=YOURID
